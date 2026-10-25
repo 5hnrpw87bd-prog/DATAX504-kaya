@@ -1,0 +1,14 @@
+{
+  "seed": 42,
+  "selected_model": "MLP with class weights",
+  "primary_metric": "Average Precision (AP)",
+  "thresholds": {
+    "2": 0.8947704434394836,
+    "5": 0.7350015640258789,
+    "10": 0.6771031618118286
+  },
+  "keras_version": "3.15.0",
+  "sklearn_version": "1.9.0",
+  "numpy_version": "2.5.1",
+  "pandas_version": "3.0.3"
+}
